@@ -1,3 +1,3 @@
-'make it look React Clone
+'make it look React Clone'
 
 
