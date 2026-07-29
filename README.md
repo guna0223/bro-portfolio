@@ -1,3 +1,3 @@
-# Sébastien Lempens Portfolio — React Clone
+'make it look React Clone
 
 
